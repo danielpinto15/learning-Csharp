@@ -1,2 +1,2 @@
-# learning-c-
+# learning-CSharp
 Learning the basics in c#
