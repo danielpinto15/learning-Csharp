@@ -1,0 +1,13 @@
+C:\Users\Dani\Documents\github\learning-c-\GuessTheWord\guessTheWord\guessTheWord\bin\Debug\netcoreapp3.1\guessTheWord.exe
+C:\Users\Dani\Documents\github\learning-c-\GuessTheWord\guessTheWord\guessTheWord\bin\Debug\netcoreapp3.1\guessTheWord.deps.json
+C:\Users\Dani\Documents\github\learning-c-\GuessTheWord\guessTheWord\guessTheWord\bin\Debug\netcoreapp3.1\guessTheWord.runtimeconfig.json
+C:\Users\Dani\Documents\github\learning-c-\GuessTheWord\guessTheWord\guessTheWord\bin\Debug\netcoreapp3.1\guessTheWord.runtimeconfig.dev.json
+C:\Users\Dani\Documents\github\learning-c-\GuessTheWord\guessTheWord\guessTheWord\bin\Debug\netcoreapp3.1\guessTheWord.dll
+C:\Users\Dani\Documents\github\learning-c-\GuessTheWord\guessTheWord\guessTheWord\bin\Debug\netcoreapp3.1\guessTheWord.pdb
+C:\Users\Dani\Documents\github\learning-c-\GuessTheWord\guessTheWord\guessTheWord\obj\Debug\netcoreapp3.1\guessTheWord.csprojAssemblyReference.cache
+C:\Users\Dani\Documents\github\learning-c-\GuessTheWord\guessTheWord\guessTheWord\obj\Debug\netcoreapp3.1\guessTheWord.AssemblyInfoInputs.cache
+C:\Users\Dani\Documents\github\learning-c-\GuessTheWord\guessTheWord\guessTheWord\obj\Debug\netcoreapp3.1\guessTheWord.AssemblyInfo.cs
+C:\Users\Dani\Documents\github\learning-c-\GuessTheWord\guessTheWord\guessTheWord\obj\Debug\netcoreapp3.1\guessTheWord.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Documents\github\learning-c-\GuessTheWord\guessTheWord\guessTheWord\obj\Debug\netcoreapp3.1\guessTheWord.dll
+C:\Users\Dani\Documents\github\learning-c-\GuessTheWord\guessTheWord\guessTheWord\obj\Debug\netcoreapp3.1\guessTheWord.pdb
+C:\Users\Dani\Documents\github\learning-c-\GuessTheWord\guessTheWord\guessTheWord\obj\Debug\netcoreapp3.1\guessTheWord.genruntimeconfig.cache
