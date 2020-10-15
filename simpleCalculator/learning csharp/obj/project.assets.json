@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dani\\Documents\\github\\c#\\learning csharp\\learning csharp\\learning csharp.csproj",
+      "projectUniqueName": "C:\\Users\\Dani\\Documents\\github\\learning-c-\\simpleCalculator\\learning csharp\\learning csharp.csproj",
       "projectName": "learning csharp",
-      "projectPath": "C:\\Users\\Dani\\Documents\\github\\c#\\learning csharp\\learning csharp\\learning csharp.csproj",
+      "projectPath": "C:\\Users\\Dani\\Documents\\github\\learning-c-\\simpleCalculator\\learning csharp\\learning csharp.csproj",
       "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dani\\Documents\\github\\c#\\learning csharp\\learning csharp\\obj\\",
+      "outputPath": "C:\\Users\\Dani\\Documents\\github\\learning-c-\\simpleCalculator\\learning csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",
